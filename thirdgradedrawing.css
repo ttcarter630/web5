@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    color: red;
+}
+
+canvas{
+    display: block;
+    margin: 0 auto;
+    background-color: skyblue;
+    border: thick groove black;
+}
+
